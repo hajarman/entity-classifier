@@ -1,5 +1,5 @@
 # entity-classifier
-A project for BSLM product entity classification for our dear interns
+A project for BSLM products entity classification for our dear interns
 
 ## To-Do
 - [ ] Create and add dataset
